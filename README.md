@@ -95,7 +95,7 @@ This suggests **low intrinsic time-series signal**.
 
 ### Example Forecast (Whey Protein)
 
-![forecasting](Images/forecasting-whey-protein.png)
+![forecasting](Images/forecast-whey-protein.png)
 
 * ARIMAX closely tracks real values
 * Captures short-term fluctuations significantly better
