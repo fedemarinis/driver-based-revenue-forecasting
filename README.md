@@ -135,6 +135,7 @@ Driver-based forecasting enables:
 
 ```text
 ├── Supplement Sales Analysis.R
+├── Outputs Images from code/
 ├── Images/
 │   ├── table5.png
 │   ├── table6.png
